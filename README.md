@@ -9,7 +9,7 @@
 
 <td width="65%">
 
-# ✨ 𝙾𝚕𝚊́, 𝚎𝚞 𝚜𝚘𝚞 𝚊 𝙻𝚞𝚒𝚣𝚊 𝚅𝚊𝚕𝚎𝚗𝚝𝚒𝚗𝚊
+# ✨ 𝙾𝚕𝚊́, 𝚎𝚞 𝚜𝚘𝚞 𝚊 𝙻𝚞𝚒𝚣𝚊
 
 <img src="https://img.shields.io/badge/Publicitária-CDB4FF?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/ADS-B8C0FF?style=for-the-badge&logoColor=white">
